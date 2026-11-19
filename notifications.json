@@ -3,6 +3,7 @@
     {
       "title": "Redis 8.10: compact hashes, JSONPath and more",
       "category": "release",
+      "categoryColor": "#805A0D",
       "timestamp": 1789387200,
       "body": "<a href=\"https://redis.io/blog/announcing-redis-810-compact-hash-jsonpath-extensions-performance-improvements-and-more\" target=\"_blank\">Redis 8.10</a> brings compact hashes that use less memory, more powerful JSONPath expressions, more flexible Stream consumption, new Set cardinality operations, atomic movement of multiple List elements, and enhanced Time Series capabilities. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker Hub</a>."
         }
