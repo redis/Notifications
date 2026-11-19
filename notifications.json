@@ -1,25 +1,11 @@
 {
     "notifications": [
-        {
-            "title": "Redis 8.6 is now available!",
-            "body": "<a href=\"https://redis.io/blog/announcing-redis-86-performance-improvements-streams/\" target=\"_blank\">Redis 8.6</a> delivers performance & resource utilization improvements, new Streams safeguards, more eviction control, better hotkey visibility, simpler TLS auth, and more flexible time series handling. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker Hub</a>.",
-            "category": "release",
-            "categoryColor": "#805A0D",
-            "timestamp": 1770738093
-        },
-        {
-            "title": "Redis MCP Server is available in preview",
-            "body": "The <strong>Redis MCP Server</strong> is designed for agentic applications to efficiently manage and search data in Redis.<br><br>Try natural language queries like:<br><em>“Store the session with an expiration time”</em> or <em>“Index and search this vector”</em>.<br><br>Learn more on <a href=\"https://github.com/redis/mcp-redis\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a>.",
-            "category": "release",
-            "categoryColor": "#805A0D",
-            "timestamp": 1753712822
-        },
-        {
-            "title": "Connect to Redis from Visual Studio Code",
-            "body": "Redis for VS Code brings the power of Redis directly into your favorite code editor! <p> Connect to your Redis databases from within Microsoft Visual Studio Code and enjoy the streamlined experience you already love in Redis Insight.  <p> Download Redis for VS Code from <a href=\"https://marketplace.visualstudio.com/items?itemName=Redis.redis-for-vscode\" target=\"_blank\">Visual Studio Marketplace</a>.",
-            "category": "release",
-            "categoryColor": "#805A0D",
-            "timestamp": 1729158813
+         {
+              "title": "Redis 8.10: compact hashes, JSONPath and more",
+              "category": "release",
+              "categoryColor": "#805A0D",
+              "timestamp": 1795106536,
+              "body": "<a href=\"https://redis.io/blog/announcing-redis-810-compact-hash-jsonpath-extensions-performance-improvements-and-more/?utm_source=redisinsight&utm_medium=notification&utm_campaign=redis_8_10\" target=\"_blank\">Redis 8.10</a> brings compact hashes that use less memory, more powerful JSONPath expressions, new multi-element List and Set commands, incremental backup and restore, and new reply limits for Streams. <p> Get it from <a href=\"https://hub.docker.com/_/redis/tags\" target=\"_blank\">Docker Hub</a>."
         }
     ]
 }
